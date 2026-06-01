@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Management System",
+  "description": "An all-in-one E-commerce system with Admin, Seller, Customer, and Delivery portals, order tracking, and text exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
